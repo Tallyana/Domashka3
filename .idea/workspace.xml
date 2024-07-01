@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aea26d35-0549-4fbb-904e-e44f3b8eee2a" name="Changes" comment="1.">
-      <change afterPath="$PROJECT_DIR$/src/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Domashka3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServiceStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
+    <list default="true" id="aea26d35-0549-4fbb-904e-e44f3b8eee2a" name="Changes" comment="Начало задания.Часть 1.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MotorTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MotorTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServiceStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServiceStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WheeledTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WheeledTransport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +36,24 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2iaaLdcpq3XHwDd6n8H160HDoSo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "line1",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/Domashka3/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;line1&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/Domashka3/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,11 +79,37 @@
       <option name="project" value="LOCAL" />
       <updated>1719731650278</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Начало задания.Данные.">
+      <option name="closed" value="true" />
+      <created>1719783487584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719783487584</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Начало задания.Данные.">
+      <option name="closed" value="true" />
+      <created>1719783647744</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719783647744</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Начало задания.Часть 1.">
+      <option name="closed" value="true" />
+      <created>1719849960990</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719849960990</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1." />
-    <option name="LAST_COMMIT_MESSAGE" value="1." />
+    <MESSAGE value="Начало задания.Данные." />
+    <MESSAGE value="Начало задания.Часть 1." />
+    <option name="LAST_COMMIT_MESSAGE" value="Начало задания.Часть 1." />
   </component>
 </project>
