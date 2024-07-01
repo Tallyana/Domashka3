@@ -1,21 +1,21 @@
 public abstract class WheeledTransport implements Transport{
-   private String modelName;
-    private int wheelsCount;
+//реализован абстрактный класс,завязанный(имплементир) на Интерфейс Транспорт
+   private final String modelName;
+    private final int wheelsCount;
+    //созданы приватные неизменяемые поля
 
+    protected WheeledTransport(String modelName, int wheelsCount) {
+        this.modelName = modelName;
+        this.wheelsCount = wheelsCount;
+    } //конструктор наследования
+      //геттеры
     public String getModelName() {
         return modelName;
-    }
-
-    public void setModelName(String modelName) {
-        this.modelName = modelName;
     }
 
     public int getWheelsCount() {
         return wheelsCount;
     }
-
-    public void setWheelsCount(int wheelsCount) {
-        this.wheelsCount = wheelsCount;
-    }
-    public abstract  String updateType();
+     //абстрактный метод в абстрактном классе.
+    public abstract  void updateType();
 }
